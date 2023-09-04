@@ -12,12 +12,12 @@ Introduction: The introduction should provide a brief overview of the app, inclu
 Libraries and Resources: The third-party libraries and resources section should list any third-party libraries or resources that were used in the development of the app. This section should also include the licenses for these libraries and resources.
 
 **Features**
-Light/dark mode toggle
-Live previews
-Fullscreen mode
-Cross platform
-3D Model
-AR experenice
+Light/dark mode toggle|
+Live previews|
+Fullscreen mode|
+Cross platform|
+3D Model|
+AR experenice|
 Educational Content
 
 **Screenshots**
